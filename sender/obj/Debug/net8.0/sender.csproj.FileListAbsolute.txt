@@ -1,0 +1,14 @@
+d:\coding\c#\naimur app C#\sender\bin\Debug\net8.0\sender.exe
+d:\coding\c#\naimur app C#\sender\bin\Debug\net8.0\sender.deps.json
+d:\coding\c#\naimur app C#\sender\bin\Debug\net8.0\sender.runtimeconfig.json
+d:\coding\c#\naimur app C#\sender\bin\Debug\net8.0\sender.dll
+d:\coding\c#\naimur app C#\sender\bin\Debug\net8.0\sender.pdb
+d:\coding\c#\naimur app C#\sender\obj\Debug\net8.0\sender.GeneratedMSBuildEditorConfig.editorconfig
+d:\coding\c#\naimur app C#\sender\obj\Debug\net8.0\sender.AssemblyInfoInputs.cache
+d:\coding\c#\naimur app C#\sender\obj\Debug\net8.0\sender.AssemblyInfo.cs
+d:\coding\c#\naimur app C#\sender\obj\Debug\net8.0\sender.csproj.CoreCompileInputs.cache
+d:\coding\c#\naimur app C#\sender\obj\Debug\net8.0\sender.dll
+d:\coding\c#\naimur app C#\sender\obj\Debug\net8.0\refint\sender.dll
+d:\coding\c#\naimur app C#\sender\obj\Debug\net8.0\sender.pdb
+d:\coding\c#\naimur app C#\sender\obj\Debug\net8.0\sender.genruntimeconfig.cache
+d:\coding\c#\naimur app C#\sender\obj\Debug\net8.0\ref\sender.dll

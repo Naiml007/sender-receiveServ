@@ -1,0 +1,14 @@
+d:\coding\c#\naimur app C#\receiver\bin\Debug\net8.0\receiver.exe
+d:\coding\c#\naimur app C#\receiver\bin\Debug\net8.0\receiver.deps.json
+d:\coding\c#\naimur app C#\receiver\bin\Debug\net8.0\receiver.runtimeconfig.json
+d:\coding\c#\naimur app C#\receiver\bin\Debug\net8.0\receiver.dll
+d:\coding\c#\naimur app C#\receiver\bin\Debug\net8.0\receiver.pdb
+d:\coding\c#\naimur app C#\receiver\obj\Debug\net8.0\receiver.GeneratedMSBuildEditorConfig.editorconfig
+d:\coding\c#\naimur app C#\receiver\obj\Debug\net8.0\receiver.AssemblyInfoInputs.cache
+d:\coding\c#\naimur app C#\receiver\obj\Debug\net8.0\receiver.AssemblyInfo.cs
+d:\coding\c#\naimur app C#\receiver\obj\Debug\net8.0\receiver.csproj.CoreCompileInputs.cache
+d:\coding\c#\naimur app C#\receiver\obj\Debug\net8.0\receiver.dll
+d:\coding\c#\naimur app C#\receiver\obj\Debug\net8.0\refint\receiver.dll
+d:\coding\c#\naimur app C#\receiver\obj\Debug\net8.0\receiver.pdb
+d:\coding\c#\naimur app C#\receiver\obj\Debug\net8.0\receiver.genruntimeconfig.cache
+d:\coding\c#\naimur app C#\receiver\obj\Debug\net8.0\ref\receiver.dll
